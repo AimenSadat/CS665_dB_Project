@@ -12,7 +12,9 @@ Framework:
 Backed: **Flask**
 Frontend: **HTML/CSS**
 
-**Githublink**
+**Githublink:**
+
+
 https://github.com/AimenSadat/CS665_dB_Project
 
-**Youtubelink**
+**Youtubelink:**
