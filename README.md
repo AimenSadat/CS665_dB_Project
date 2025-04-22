@@ -7,11 +7,14 @@ efficiently manage resources, and foster seamless interaction between library st
 
 Language : **Phthon**
 
-Database: **SQLite**
+
+Database: **SQLite
+
 
 Framework:
 Backed: **Flask**
 Frontend: **HTML/CSS**
+
 
 **Githublink:**
 
