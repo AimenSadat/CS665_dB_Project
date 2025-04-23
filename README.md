@@ -12,7 +12,7 @@ Database: **SQLite**
 
 
 Framework:
-Backed: **Djanjo**
+Backed: **Django**
 Frontend: **HTML/CSS**
 
 
