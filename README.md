@@ -12,7 +12,7 @@ Database: **SQLite**
 
 
 Framework:
-Backed: **Flask**
+Backed: **Djanjo**
 Frontend: **HTML/CSS**
 
 
